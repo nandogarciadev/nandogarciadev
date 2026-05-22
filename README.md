@@ -1,7 +1,13 @@
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=007ACC&center=true&vCenter=true&width=500&lines=Olá,+Meu+nome+é+Fernando+Garcia!;Desenvolvedor+Java+Full+Stack;Sempre+aprendendo+e+evoluindo+🚀" 
-    alt="Typing SVG" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=007ACC&center=true&vCenter=true&width=500&lines=Olá,+Meu+nome+é+Fernando+Garcia!;Desenvolvedor+Java+Full+Stack;Sempre+aprendendo+e+evoluindo+🚀"
+    alt="Typing SVG"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=nandogarciadev&label=Visualizações&color=007ACC&style=flat"
   />
 </p>
 
@@ -38,6 +44,16 @@
 <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,html,css,javascript,vscode,eclipse" />
 
 </p>
+
+---
+
+## 🏆 Conquistas
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nandogarciadev&theme=tokyonight&margin-w=15&margin-h=15&column=4"/>
+
+</div>
 
 ---
 
