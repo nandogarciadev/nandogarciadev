@@ -47,11 +47,13 @@
 
 ---
 
-## 🏆 Conquistas
+## 📊 Estatísticas GitHub
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nandogarciadev&theme=tokyonight&margin-w=15&margin-h=15&column=4"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=nandogarciadev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandogarciadev&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
