@@ -17,11 +17,11 @@
 
 ## ✦ Sobre mim
 
-- ◉ Estudante de **Java Full Stack** pela **Generation Brasil**
+- ◉ **Dev Java Full Stack** pela **Generation Brasil**
 - ◉ Apaixonado por tecnologia, programação e resolução de problemas
-- ◉ Desenvolvendo aplicações com **Java, Spring Boot, MySQL e APIs REST**
+- ◉ Desenvolvendo aplicações com **Java, Spring Boot, MySQL, APIs REST, HTML e CSS**
 - ◉ Experiência profissional com **Suporte Técnico, Microsoft 365 e Automação de Processos**
-- ◉ Interesse em **Desenvolvimento Backend, Banco de Dados e Cloud Computing**
+- ◉ Interesse em **Desenvolvimento FullStack e Suporte Técnico**
 - ◉ Sempre buscando aprender novas tecnologias e boas práticas de desenvolvimento
 
    </td>
@@ -41,7 +41,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,html,css,javascript,vscode,eclipse" />
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,html,css,javascript,vscode,react" />
 
 </p>
 
